@@ -1,0 +1,16 @@
+﻿  2DFluidSimulation.c
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(43,5): warning C4026: function declared with formal parameter list
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(78,36): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(78,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(84,58): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(84,66): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(89,61): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(89,69): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(172,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(213,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(260,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(282,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(283,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(327,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\2DFluidSimulation\2DFluidSimulation.c(409,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2DFluidSimulation.vcxproj -> C:\Users\jbari\source\repos\In progress or not complete\2DFluidSimulation\x64\Debug\2DFluidSimulation.exe
